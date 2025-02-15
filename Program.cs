@@ -74,5 +74,5 @@ else if (nombre_de_point > (QUESTION_NUMBER / 2))
 }
 else if (nombre_de_point <= (QUESTION_NUMBER / 2))
 {
-    Console.WriteLine("Peut faire mieux");
+    Console.WriteLine("Peut faire mieux. Courage");
 }
